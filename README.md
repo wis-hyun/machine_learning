@@ -44,13 +44,6 @@
 
 ---
 
-## ▶️ 실행 방법
-
-```bash
-# 가상환경 또는 프로젝트 환경에서 필요한 라이브러리 설치
-pip install -r requirements.txt
-
-# Jupyter Notebook 실행
 jupyter notebook
 
 
